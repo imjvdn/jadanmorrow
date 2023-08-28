@@ -1,6 +1,4 @@
-### Hi there 👋
 
-Software engineer with a focus on security analysis. Skilled in Python, C++, and JavaScript, as well as tools such as Kali Linux and Wireshark. Passionate about using technology to solve complex problems and improve the security of systems. Always looking for new challenges and opportunities to learn and grow.
 
 <!--
 **jadanmorrow/jadanmorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
